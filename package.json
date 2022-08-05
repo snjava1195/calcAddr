@@ -1,0 +1,16 @@
+{
+  "name": "testconsoleutility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.ts",
+  "scripts": {
+    "test": "example.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "everscale-inpage-provider": "^0.3.28",
+    "everscale-standalone-client": "^2.0.21"
+  },
+  "type": "module"
+}
